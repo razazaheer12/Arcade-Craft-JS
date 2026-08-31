@@ -138,6 +138,7 @@ This project is licensed under the MIT License – feel free to use, modify, and
 
 ## 👨‍💻 Author
 
-Developed by RazaZaheer12 🚀
+**Raza Zaheer**
+* GitHub: [@razazaheer12](https://github.com/razazaheer12)
 
 Developed as a clean, modern implementation of the classic Tic Tac Toe game demonstrating HTML, CSS, and JavaScript best practices.
