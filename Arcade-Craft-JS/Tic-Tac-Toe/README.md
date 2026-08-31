@@ -1,4 +1,4 @@
-## 🎮 Tic Tac Toe Game
+# 🎮 Tic Tac Toe Game
 
 A modern Tic Tac Toe game built with HTML, CSS, and JavaScript. Play two-player turn-based gameplay with automatic win/draw detection, a persisted scoreboard, and an animated win line drawn between winning cells!
 
