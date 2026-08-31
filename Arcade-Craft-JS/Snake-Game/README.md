@@ -23,20 +23,16 @@ A feature-rich, interactive **Snake Game** engineered with HTML5, CSS3, and mode
 
 ---
 
+```
 ## 🛠️ Project Structure
 
-snake-game /
+├── Snake-Game/                # 🐍 Classic Snake Game
+│   ├── index.html             # Game structure
+│   ├── script.js              # Game logic
+│   ├── style.css              # Styling & animations
+│   └── README.md              # Game documentation
 
-│── index.html      # Game layout and structure
-
-│── style.css       # Game styling and animations
-
-│── script.js       # Game logic and functionality
-
-│── README.md       # Project documentation
-
----
-
+```
 ## 📂 Tech Stack
 
 * **HTML5:** Semantic layout structure and canvas/game frame orchestration.
@@ -57,13 +53,22 @@ snake-game /
 
 ## 🤝 Contributing
 
-Contributions, feature suggestions, and bug reports are welcome! Feel free to check the issues tab or open a pull request.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create.
 
-1. Fork the Project
-2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
-3. Commit your Changes (git commit -m 'Add some AmazingFeature')
-4. Push to the Branch (git checkout -b feature/AmazingFeature)
-5. Open a Pull Request
+```bash
+# 1. Fork the Project
+# 2. Create your Feature Branch
+git checkout -b feature/AmazingFeature
+
+# 3. Commit your Changes
+git commit -m 'Add some AmazingFeature'
+
+# 4. Push to the Branch
+git push origin feature/AmazingFeature
+
+# 5. Open a Pull Request
+
+```
 
 ---
 
