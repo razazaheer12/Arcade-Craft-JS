@@ -2,7 +2,16 @@
 
 A modern Tic Tac Toe game built with HTML, CSS, and JavaScript. Play two-player turn-based gameplay with automatic win/draw detection, a persisted scoreboard, and an animated win line drawn between winning cells!
 
-![Tic Tac Toe](https://github.com/user-attachments/assets/dc851b82-1153-45ef-942f-e83152032201
+<img width="959" height="434" alt="image" src="https://github.com/user-attachments/assets/7bb9470b-11fc-4620-862e-890cf05cca5a" />
+
+
+---
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-tic--tac--toe--333.netlify.app-00C7B7?style=for-the-badge)](https://tic-tac-toe-333.netlify.app/)
+
+</div>
 
 
 ## 🎯 Features
@@ -24,10 +33,9 @@ A modern Tic Tac Toe game built with HTML, CSS, and JavaScript. Play two-player 
 
 
 ## 📸 Screenshots
-<img width="1536" height="1024" alt="Tic Tac Toe Game View" src="https://github.com/user-attachments/assets/tictactoe-view.png" />
 
-<img width="1536" height="1024" alt="Tic Tac Toe Win Animation" src="https://github.com/user-attachments/assets/tictactoe-win.png" />
-
+<img width="959" height="431" alt="image" src="https://github.com/user-attachments/assets/629d6494-3bb8-4de5-a7c0-d3b60bb763b3" />
+<img width="959" height="434" alt="image" src="https://github.com/user-attachments/assets/7e438392-f2a2-4623-86ad-e12cbf724ae3" />
 
 ## 🚀 Getting Started
 
