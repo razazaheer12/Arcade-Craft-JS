@@ -2,12 +2,9 @@
 
 A sleek, responsive 3D Memory Card Matching game engineered with HTML5, CSS3 Grid/Animations, and modern Vanilla JavaScript (ES6+). Built with a **Mobile-First Approach** to ensure seamless gameplay across all screen sizes—from smartphones to 4K desktop displays.
 
----
-
 ## 📸 Preview
 
-![MemoryFlip Preview](c:\Users\hp\Pictures\Screenshots\Screenshot 2026-08-31 190044.png)
-
+<img width="959" height="430" alt="image" src="https://github.com/user-attachments/assets/8bbc8c97-cda9-4ff3-9ce3-b6b41864ff9d" />
 
 🌐 **Live Demo:** https://memory-card-flip.netlify.app/
 
