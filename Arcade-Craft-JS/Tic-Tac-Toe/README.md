@@ -2,8 +2,7 @@
 
 A modern Tic Tac Toe game built with HTML, CSS, and JavaScript. Play two-player turn-based gameplay with automatic win/draw detection, a persisted scoreboard, and an animated win line drawn between winning cells!
 
-<img width="1385" height="748" alt="Tic Tac Toe Game Screenshot" src="https://github.com/user-attachments/assets/tictactoe-game.png" />
-
+![Tic Tac Toe](https://github.com/user-attachments/assets/dc851b82-1153-45ef-942f-e83152032201
 
 
 ## 🎯 Features
