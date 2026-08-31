@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Memory Match - Brain Game</title>
+  <link rel="stylesheet" href="style.css" />
+  <!-- Google Fonts for Modern Typography -->
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;700;800&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+  <div class="game-container">
+    <!-- Header / Stats Bar -->
+    <header class="header">
+      <h1 class="title">Memory<span>Flip</span></h1>
+      <div class="stats-bar">
+        <div class="stat-box">
+          <span class="label">MOVES</span>
+          <span id="moves" class="value">0</span>
+        </div>
+        <div class="stat-box">
+          <span class="label">TIME</span>
+          <span id="timer" class="value">00:00</span>
+        </div>
+        <button id="restart-btn" class="icon-btn" aria-label="Restart Game">🔄</button>
+      </div>
+    </header>
+
+    <!-- Cards Grid -->
+    <main class="grid-container" id="grid"></main>
+  </div>
+
+  <!-- Win Modal Overlay -->
+  <div id="win-modal" class="modal hidden">
+    <div class="modal-content">
+      <div class="trophy-icon">🏆</div>
+      <h2>Awesome Memory!</h2>
+      <p>You completed the game in <strong id="final-moves">0</strong> moves and <strong id="final-time">00:00</strong>.</p>
+      <button id="play-again-btn" class="primary-btn">Play Again</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

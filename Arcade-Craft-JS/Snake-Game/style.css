@@ -1,0 +1,170 @@
+/* Base reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background: #0d1022;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+/* Top bar */
+.topbar {
+  width: 100%;
+  max-width: 500px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+  padding: 10px 15px;
+  background: #1c1f38;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+.topbar h1 {
+  font-size: 20px;
+  color: #8ab4ff;
+}
+
+.score-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.scoreboard {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+/* Buttons */
+.btn {
+  padding: 8px 16px;
+  font-size: 15px;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  background: linear-gradient(90deg, #93c5fd, #6ee7b7);
+  color: #0d1022;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.btn.small {
+  padding: 6px 12px;
+  font-size: 14px;
+  border-radius: 6px;
+}
+
+.btn:hover {
+  transform: scale(1.05);
+  opacity: 0.9;
+}
+
+/* Smaller size for specific buttons: pause, restart, mute */
+#pauseResumeBtn, #restartBtn, #muteBtn {
+  padding: 4px 8px;
+  font-size: 12px;
+  border-radius: 4px;
+}
+
+/* Canvas */
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+canvas {
+  border: 3px solid #8ab4ff;
+  border-radius: 10px;
+  background: #0d1022;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.4);
+}
+
+/* Overlay */
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(13,16,34,0.9);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 10;
+}
+
+.overlay.hidden {
+  display: none;
+}
+
+.overlay-content {
+  background: #1c1f38;
+  padding: 30px 40px;
+  border-radius: 16px;
+  text-align: center;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.4);
+}
+
+.overlay-content h2 {
+  font-size: 28px;
+  margin-bottom: 15px;
+  color: #ff7676;
+}
+
+.overlay-content p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+/* Mobile Controls */
+.mobile-controls {
+  display: none;
+  margin-top: 20px;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.mobile-controls button {
+  background: #8ab4ff;
+  border: none;
+  border-radius: 8px;
+  padding: 12px 20px;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.mobile-controls .middle-row {
+  display: flex;
+  gap: 15px;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  canvas {
+    width: 300px;
+    height: 300px;
+  }
+
+  .topbar {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .mobile-controls {
+    display: flex;
+  }
+}
