@@ -49,14 +49,15 @@ No server or build tools required - this is a static web application.
 
 ## 🛠️ Project Structure
 
-tic-tac-toe/
+```
 
-│── index.html      # Game layout and structure
-│── style.css       # Game styling and animations
-│── script.js       # Game logic and functionality
-│── README.md       # Project documentation
+    ├── Tic-Tac-Toe/           # ⭕ Tic Tac Toe Game
+    ├── index.html             # Game structure
+    ├── script.js              # Game logic
+    ├── style.css              # Styling & animations
+    └── README.md              # Game documentation
 
-
+```
 
 ## 🎮 How to Play
 
