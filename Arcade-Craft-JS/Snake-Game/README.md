@@ -4,7 +4,11 @@ A feature-rich, interactive **Snake Game** engineered with HTML5, CSS3, and mode
 
 ![Snake Game Banner](https://github.com/user-attachments/assets/c818b621-6d5b-4dc0-a572-5b1af4ad1732)
 
-🌐 **Live URL:** [snake-game0999.netlify.app](https://snake-game0999.netlify.app/)
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-snake--game0999.netlify.app-00C7B7?style=for-the-badge)](https://snake-game0999.netlify.app/)
+
+</div>
 
 ---
 
