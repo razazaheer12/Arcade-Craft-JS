@@ -197,15 +197,13 @@ All games are designed with mobile users in mind:
 ## 📸 Screenshots
 
 ### 🧩 Memory Card Flip
-![Memory Card Flip](<img width="914" height="411" alt="Screenshot 2026-08-31 190044" src="https://github.com/user-attachments/assets/618a4927-f824-4b69-8324-2739fa23653b" />
-)
+![Memory Card Flip](https://github.com/user-attachments/assets/618a4927-f824-4b69-8324-2739fa23653b)
 
 ### 🐍 Snake Game
 ![Snake Game](https://github.com/user-attachments/assets/c818b621-6d5b-4dc0-a572-5b1af4ad1732)
 
 ### ⭕ Tic Tac Toe
-![Tic Tac Toe](<img width="392" height="397" alt="image" src="https://github.com/user-attachments/assets/381fa21d-3d24-41d1-b98a-9a81fa073ff7" />
-)
+![Tic Tac Toe](https://github.com/user-attachments/assets/dc851b82-1153-45ef-942f-e83152032201)
 
 ---
 
