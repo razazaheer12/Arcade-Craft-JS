@@ -16,7 +16,7 @@
 
 ## ✨ Description
 
-**Arcade Craft JS** is a curated collection of three classic arcade games reimagined with modern web technologies. Each game is built entirely with vanilla HTML5, CSS3, and JavaScript (ES6+) — no frameworks, no build tools, just pure, clean code that runs directly in your browser.
+**Arcade Craft JS** is a curated collection of three classic arcade games reimagined with modern web technologies. Each game is built entirely with vanilla HTML5, CSS3, and JavaScript (ES6+) no frameworks, no build tools, just pure, clean code that runs directly in your browser.
 
 This project showcases clean architecture, responsive design patterns, and smooth animations while delivering an authentic arcade gaming experience.
 
