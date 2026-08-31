@@ -2,13 +2,9 @@
 
 A feature-rich, interactive **Snake Game** engineered with HTML5, CSS3, and modern Vanilla JavaScript (ES6+). Experience the nostalgic retro gameplay enhanced with speed progression, interactive audio feedback, state controls (Pause/Resume), and persistent score tracking.
 
----
-
-## 📸 Preview
-
-🌐 **Live Demo:** [snake-game0999.netlify.app](https://snake-game0999.netlify.app/)
-
 ![Snake Game Banner](https://github.com/user-attachments/assets/c818b621-6d5b-4dc0-a572-5b1af4ad1732)
+
+🌐 **Live URL:** [snake-game0999.netlify.app](https://snake-game0999.netlify.app/)
 
 ---
 
