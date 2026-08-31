@@ -42,7 +42,7 @@ This project showcases clean architecture, responsive design patterns, and smoot
 
 <div align="center">
 
-![Memory Card Flip Preview](https://img.shields.io/badge/Live%20Demo-memory--card--flip.netlify.app-00C7B7?style=for-the-badge)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-memory--card--flip.netlify.app-00C7B7?style=for-the-badge)](https://memory-card-flip.netlify.app/)
 
 </div>
 
@@ -63,7 +63,7 @@ A sleek, responsive 3D Memory Card Matching game with smooth CSS animations and 
 
 <div align="center">
 
-![Snake Game Preview](https://img.shields.io/badge/Live%20Demo-snake--game0999.netlify.app-00C7B7?style=for-the-badge)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-snake--game0999.netlify.app-00C7B7?style=for-the-badge)](https://snake-game0999.netlify.app/)
 
 </div>
 
@@ -85,7 +85,7 @@ The classic snake game enhanced with speed progression, audio feedback, and stat
 
 <div align="center">
 
-![Tic Tac Toe Preview](https://img.shields.io/badge/Live%20Demo-tic--tac--toe-razazaheer.netlify.app-00C7B7?style=for-the-badge)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-tic--tac--toe--333.netlify.app-00C7B7?style=for-the-badge)](https://tic-tac-toe-333.netlify.app/)
 
 </div>
 
@@ -150,12 +150,11 @@ Arcade-Craft-JS/
     └── README.md              # Game documentation
 ```
 
----
-**Tech Stack:** HTML5, CSS3 (Grid, Custom Properties, Animations), ES6+ JavaScript, localStorage API, Google Fonts (Bebas Neue, Manrope)
-
----
-
-
+**Tech Stack:**
+* **Core:** HTML5, CSS3, JavaScript (ES6+)
+* **Layout & Styling:** CSS Grid, Custom Properties (Variables), CSS Keyframe Animations
+* **State Management:** Web Storage API (`localStorage`)
+* **Typography:** Google Fonts (*Bebas Neue*, *Manrope*)
 
 ---
 
@@ -198,13 +197,15 @@ All games are designed with mobile users in mind:
 ## 📸 Screenshots
 
 ### 🧩 Memory Card Flip
-![Memory Card Flip](https://raw.githubusercontent.com/razazaheer12/Arcade-Craft-JS/main/Memory-Card-Flip/Screenshot%202026-08-31%20190044.png)
+![Memory Card Flip](<img width="914" height="411" alt="Screenshot 2026-08-31 190044" src="https://github.com/user-attachments/assets/618a4927-f824-4b69-8324-2739fa23653b" />
+)
 
 ### 🐍 Snake Game
-![Snake Game](https://user-images.githubusercontent.com/attachments/c818b621-6d5b-4dc0-a572-5b1af4ad1732.png)
+![Snake Game](https://github.com/user-attachments/assets/c818b621-6d5b-4dc0-a572-5b1af4ad1732)
 
 ### ⭕ Tic Tac Toe
-![Tic Tac Toe](https://user-images.githubusercontent.com/attachments/tictactoe-game.png)
+![Tic Tac Toe](<img width="392" height="397" alt="image" src="https://github.com/user-attachments/assets/381fa21d-3d24-41d1-b98a-9a81fa073ff7" />
+)
 
 ---
 
